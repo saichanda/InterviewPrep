@@ -1,1 +1,8 @@
 Data structure is a way of storing data in the computer that optimizes in terms of time and space complexities.
+Important datastructures are Arrays, LinkedLists, Stacks and Queues
+
+Array stores homogeneous data at the contiguous locations, where size of an array needs to be known in advance.
+Access Time: O(1) since elements are contiguous
+Search Time: O(n) for Sequential Search
+             O(log n) for Binary Search
+Insertion Time: O(n) 
