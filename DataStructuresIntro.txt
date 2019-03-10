@@ -1,0 +1,1 @@
+Data structure is a way of storing data in the computer that optimizes in terms of time and space complexities.
